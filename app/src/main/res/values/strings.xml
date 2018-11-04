@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fase1</string>
+    <array name="importancia">
+        <item>No urgente</item>
+        <item>Urgente</item>
+    </array>
+</resources>
